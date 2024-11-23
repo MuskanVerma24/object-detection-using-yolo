@@ -17,8 +17,8 @@ This Streamlit app allows users to perform object detection on both images and v
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/MuskanVerma24/object-detection-using-yolo.git
+    cd object-detection-using-yolo
     ```
 
 2. **Install Requirements**:
